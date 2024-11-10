@@ -1,0 +1,15 @@
+{
+    "name": "Hola_Mundo_En_JavaScript",
+    "version": "1.0.0",
+    "description": "Una aplicación de 'Hola Mundo' con Docker",
+    "main": "hola.js",
+    "dependencies": {
+      "express": "^4.18.1"
+    },
+    "scripts": {
+      "start": "node hola.js"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
